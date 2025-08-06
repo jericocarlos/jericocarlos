@@ -5,7 +5,8 @@
 ```typescript
 const Eco = {
   role: "Junior Programmer",
-  focus: "Systems & Web Development"
+  focus: "Systems & Web Development",
+  passion: ""
 };
 ```
 

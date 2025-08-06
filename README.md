@@ -1,7 +1,13 @@
 > *"Programming isn't about what you know; it's about what you can figure out."*
 
 
-## Hi there 👋
+## About Me
+```typescript
+const Eco = {
+  role: "Junior Programmer",
+  focus: "Systems Development"
+};
+```
 
 <!--
 **jericocarlos/jericocarlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
